@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">변환 앱</string>
+    <string name="metres">미터</string>
+    <string name="convert">변환</string>
+    <string name="inch">인치</string>
+    <string name="foot">피트</string>
+    <string name="mile">마일</string>
+</resources>
